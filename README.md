@@ -2,10 +2,10 @@
 
 ## 1. Methodology
 
-![](readme_images/Methodology.jpeg)
+![](readme_images/Methodology.png)
 
 ## 2. Description
-
+Lavendero is a Laundry Management System for the students within Thapar University. In this covid time, we need to reduce the crowd gathering. The purpose of this project is to reduce the crowd and do all the management of the laundry in a convenient way. 
 
 
 ### Tech Stack Used
@@ -13,10 +13,6 @@
 - MongoDB - Database used
 - Express - Server/routing API for web app
 - Node - Backend JS runtime
-
-### API Reference
-
-Postman Documentation: https://documenter.getpostman.com/view/13862647/2s8YzXuzL5
 
 ### Setting up the project
 
@@ -37,7 +33,7 @@ Postman Documentation: https://documenter.getpostman.com/view/13862647/2s8YzXuzL
 
 ## 4. Live Link
 
-Link: 
+Link: https://documenter.getpostman.com/view/13862647/2s8YzXuzL5
 
 ## 5. Screenshot of the Interface
 
