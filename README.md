@@ -2,7 +2,7 @@
 
 ## 1. Methodology
 
-![](images/etiet_methodology.jpeg)
+![](readme_images/Methodology.jpeg)
 
 ## 2. Description
 
@@ -16,13 +16,11 @@
 
 ### API Reference
 
-Postman Documentation:
-
-### How to build and run this project
+Postman Documentation: https://documenter.getpostman.com/view/13862647/2s8YzXuzL5
 
 ### Setting up the project
 
-- Clone this repository: `https://github.com/mac2503/e-tiet2.git`
+- Clone this repository: `https://github.com/hiyamadan/Lavendero-laundry-management.git`
 - Create .env file in the root directory of the project
 - Install node.js and npm on your local machine
 - Install the dependencies: `npm install`
@@ -35,10 +33,14 @@ Postman Documentation:
 
 ## 3. Input/Output
 
-
+![](readme_images/use_case.png)
 
 ## 4. Live Link
 
 Link: 
 
 ## 5. Screenshot of the Interface
+
+![](readme_images/ui1.png)
+![](readme_images/ui2.png)
+![](readme_images/ui3.png)
