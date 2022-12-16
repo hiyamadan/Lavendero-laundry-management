@@ -24,7 +24,7 @@ Lavendero is a Laundry Management System for the students within Thapar Universi
 ### Running the project
 
 - Run the dev script in the terminal: `npm run dev`
-  - Server starts running at http://localhost:5000
+  - Server starts running at http://localhost:3000
   - Server automatically restarts when any of the files are changed
 
 ## 3. Input/Output
